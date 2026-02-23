@@ -1,0 +1,187 @@
+[
+    {
+        "_id": 6,
+        "viewpointName": "Major-tetői kilátó",
+        "mountain": "Major-tető",
+        "location_id": 2,
+        "height":  { "$numberDouble": "30.4" },
+        "description": "Rálátunk az apró településre és az Eger-patak vulkanikus szurdokára éppúgy, mint a Bükk-fennsík köveinek vonulatára, valamint a távolabbi Egerre. A kilátó egyszintes, de felülről fedett.",
+        "built": {
+            "$date": "2004-08-12T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/major-teto.jpg"
+    },
+    {
+        "_id": 5,
+        "viewpointName": "Kalapat-hegyi kilátó",
+        "mountain": "Kalapat-tető",
+        "location_id": 2,
+        "height":  { "$numberDouble": "33.3" },
+        "description": "A kilátótoronyból körpanoráma nyílik, látható többek között Szilvásvárad, a Bél-kő, a Szalajka-völgy, az Istállós-kő, a Gerenna-vár, távolabb pedig a Mátra is.",
+        "built": {
+            "$date": "2000-08-20T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/kalapat.jpg"
+    },
+    {
+        "_id": 3,
+        "viewpointName": "Kós Károly-kilátó",
+        "mountain": "Kálvária-domb",
+        "location_id": 1,
+        "height":  { "$numberDouble": "15" },
+        "description": "A Kós Károly-kilátó Zebegény egyik legnépszerűbb nevezetessége, amely évente több ezer kirándulót csalogat a környékre. Minden korosztály számára kiváló úti cél, hiszen nem igényel nagyobb erőfeszítést a felkeresése, az élmény mégis utánozhatatlan, amelyet a panoráma nyújt.",
+        "built": {
+            "$date": "2015-06-15T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/kos_karoly.jpg"
+    },
+    {
+        "_id": 2,
+        "viewpointName": "Julianus-kilátó",
+        "mountain": "Hegyes-tető",
+        "location_id": 1,
+        "height":  { "$numberDouble": "15.2" },
+        "description": "A csaknem tizenöt méter magas, középkori bástyát idéző Julianus-kilátó látványában, stílusában mintegy válaszol a visegrádi várnak a Duna túloldaláról. A Julianus-kilátó tetejéről nemcsak a Dunára, a belső Börzsönyre is páratlan kilátás nyílik, a lábánál padok és asztalok várják a kirándulókat.",
+        "built": {
+            "$date": {
+                "$numberLong": "-966816000000"
+            }
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/julianus.jpg"
+    },
+    {
+        "_id": 7,
+        "viewpointName": "Petőfi-kilátó",
+        "mountain": "Bálvány",
+        "location_id": 2,
+        "height":  { "$numberDouble": "18.5" },
+        "description": "A Bükk-vidék legmagasabban fekvő tornyából valóban lenyűgöző 360 fokos körpanoráma tárul elénk. A Petőfi-kilátó legfelső szintjéről tiszta időben az Észak-magyarországi-középhegység minden tagját és a Felvidék számos magashegységét is láthatjuk.",
+        "built": {
+            "$date": "2016-06-22T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/petofi.jpg"
+    },
+    {
+        "_id": 9,
+        "viewpointName": "Prónay-kilátó",
+        "mountain": "Romhányi-hegy, Kecske-kő",
+        "location_id": 3,
+        "height":  { "$numberDouble": "26" },
+        "description": "Teljes körpanorámás kilátást kínál: nyugat-északnyugati irányban a Börzsöny, északon a Selmeci-hegység hegyei láthatók a Szitnya-csúccsal, észak-északkelet felé a távolban a Magas-Tátra, kelet felé a Szandavár, a Berceli-hegy illetve a távolban a Karancs és a Mátra hegyvonulatai, délről pedig a Gödöllői-dombság lankái figyelhetők meg. Délnyugati irányban a Naszály, illetve a Visegrádi-hegység, a Pilis és a Budai-hegység egyes csúcsai is láthatók.",
+        "built": {
+            "$date": "2017-10-10T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/pronay.jpg"
+    },
+    {
+        "_id": 8,
+        "viewpointName": "Avasi kilátó",
+        "mountain": "Avas",
+        "location_id": 2,
+        "height":  { "$numberDouble": "72.2" },
+        "description": "Tévétoronyként és kilátóként egyaránt használt építmény. A kilátóteraszról madártávlatból bontakozik ki Miskolc városa és a környező táj. A torony tetején kávézó várja a vendégeket. ",
+        "built": {
+            "$date": {
+                "$numberLong": "-210297600000"
+            }
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/avas.jpg"
+    },
+    {
+        "_id": 10,
+        "viewpointName": "Galya-kilátó",
+        "mountain": "Galya-tető",
+        "location_id": 4,
+        "height":  { "$numberDouble": "17.2" },
+        "description": "Az ország legmagasabban álló, kifejezetten e célból épült kilátója. Tetőterasza 360°-os körpanorámát biztosít, kelet felé a kéklő Bükk látható, nyugatra a Börzsöny és a Cserhát tájai, északra pedig a szlovák hegyvonulatokat figyelhetjük meg. Tiszta időben a Mecsekig, illetve a Magas-Tátráig is ellátni. A kilátóból a Piszkéstetői Obszervatórium tetejét is látni lehet. Ezen kívül tiszta időben Budapest és a Dunamenti Erőmű három hatalmas kéménye is látszik.",
+        "built": {
+            "$date": {
+                "$numberLong": "-1111708800000"
+            }
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/galya.jpg"
+    },
+    {
+        "_id": 12,
+        "viewpointName": "Kozmáry-kilátó",
+        "mountain": "Dobogó-kő",
+        "location_id": 4,
+        "height":  { "$numberDouble": "16.1" },
+        "description": "A kilátó valamivel több mint 370 m magasan áll a Dobogó-kő hegyen, mely nevét állítólag onnan kapta, hogy úgy dobog, mintha üreges lenne. Gyönyörű kilátás nyílik innen a Mátraaljára és Gyöngyös városára.",
+        "built": {
+            "$date": {
+                "$numberLong": "-2200348800000"
+            }
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/kozmary.jpg"
+    },
+    {
+        "_id": 11,
+        "viewpointName": "Kékestetői tévétorony",
+        "mountain": "Kékes",
+        "location_id": 4,
+        "height":  { "$numberDouble": "180.43" },
+        "description": "Tiszta időben gyönyörű körpanoráma tárul a látogató szeme elé: a Mátra hegyvidékén túl a tőle déli irányban elterülő Alföld, kelet felé a Bükk-vidék, nyugatról a Gödöllői-dombság lankáin túl a Budai-hegység, a Cserháton túl a Pilis és a Börzsöny, észak felé a Karancs-Medves tájain túl akár a Magas-Tátra csúcsai is felismerhetőek.",
+        "built": {
+            "$date": "1981-07-24T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/kekes_tv_torony.jpg"
+    },
+    {
+        "_id": 13,
+        "viewpointName": "Sástói kilátó",
+        "mountain": "Sás-tó",
+        "location_id": 4,
+        "height":  { "$numberDouble": "53.2" },
+        "description": "Tiszta időben még a Tiszáig és a Budai hegyekig is ellátni. Az első emeleti teraszon a madárfelismerést segítő rajzok és megtapintható faragott madarak, a harmadik emeleti teraszon a látnivalók beazonosítását megkönnyítendő feliratos tájképek és távcső találhatók.",
+        "built": {
+            "$date": "1973-08-06T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/sastoi.jpg"
+    },
+    {
+        "_id": 1,
+        "viewpointName": "Csóványosi kilátó",
+        "mountain": "Csóványos",
+        "location_id": 1,
+        "height":  { "$numberDouble": "22.7" },
+        "description": "85 millió forintos költséggel, európai uniós támogatással épült, melynek során a tornyot minden szinten körülsétálható, vörösfenyővel borított acélszerkezettel vették körül, és a torony belsejében biztonságos, 133 fokos csigalépcsővel látták el. A kilátó tetejéről remek körpanoráma tárul a látogató szeme elé (jó időben a Magas-Tátra és a Schneeberg is látható).",
+        "built": {
+            "$date": "2014-10-09T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/csovanyos.jpg"
+    },
+    {
+        "_id": 14,
+        "viewpointName": "Vörös-kő kilátó",
+        "mountain": "Vörös-kő",
+        "location_id": 4,
+        "description": "Gyönyörű körpanoráma tárul elénk a kilátóból. Galyatető vonulatai, Mátraszentlászló, Mátraszentistván, Ágasvár, valamint északi irányban tiszta időben még a Magas-Tátra is látható.",
+        "imageUrl": "https://nits68.github.io/static/viewpoints/vorosko.jpg",
+        "height":  { "$numberDouble": "15" }
+    },
+    {
+        "_id": 15,
+        "viewpointName": "Prédikálószéki kilátó",
+        "mountain": "Prédikálószék",
+        "location_id": 5,
+        "height":  { "$numberDouble": "12.55" },
+        "description": "A Duna patkó alakú kanyarjára nyílik panoráma. A nagyszerű látvány szépségét tetemes magasság és jelentős meredekség fokozza. Keleti irányban a Visegrádi-hegység Duna felé lefutó gerincei láthatók, de a visegrádi várat is könnyű észrevenni. Tiszta időben egészen a Mátráig elláthatunk.",
+        "built": {
+            "$date": "2016-10-22T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/predikaloszek.jpg"
+    },
+    {
+        "_id": 4,
+        "viewpointName": "Várhegyi kilátó",
+        "mountain": "Várhegy",
+        "location_id": 1,
+        "height":  { "$numberDouble": "15.6" },
+        "description": "Rálátunk a Magas-Börzsöny ikonikus hegyeire: a Csóványos, a Nagy-Hideg-hegy és a Magas-Tax is beazonosítható. Déli irányban a Börzsönyön túl feltűnnek a Visegrádi-hegység vonulatai, és jól kivehető a Naszály jellegzetes alakja. Tiszta időben megpillanthatjuk a Cserhát lankáit és a Karancsot, sőt, szerencsés esetben még a Mátrát is.",
+        "built": {
+            "$date": "2020-10-05T00:00:00Z"
+        },
+        "imageUrl": "https://nits68.github.io/static/viewpoints/varhegy.jpg"
+    }
+]

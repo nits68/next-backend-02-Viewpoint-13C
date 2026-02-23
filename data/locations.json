@@ -1,0 +1,26 @@
+[
+  {
+    "_id": 1,
+    "locationName": "Börzsöny"
+  },
+  {
+    "_id": 2,
+    "locationName": "Bükk"
+  },
+  {
+    "_id": 3,
+    "locationName": "Cserhát"
+  },
+  {
+    "_id": 4,
+    "locationName": "Mátra"
+  },
+  {
+    "_id": 5,
+    "locationName": "Visegrádi-hegység"
+  },
+  {
+    "_id": 6,
+    "locationName": "Zempléni-hegység"
+  }
+]
