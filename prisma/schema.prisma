@@ -1,16 +1,34 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
-
 generator client {
-  provider = "prisma-client-js"
-  output   = "../app/prisma/client"
+  provider      = "prisma-client-js"
+  output        = "../app/prisma/client"
   binaryTargets = ["native", "rhel-openssl-3.0.x"]
 }
 
 datasource db {
   provider = "mongodb"
   url      = env("DATABASE_URL")
+}
+
+model Location {
+  id           Int    @id @map("_id")
+  locationName String @unique
+
+  viewpoints Viewpoint[]
+
+  @@map("locations")
+}
+
+model Viewpoint {
+  id            Int       @id @map("_id")
+  built         DateTime? @db.Date
+  description   String
+  height        Float?
+  imageUrl      String    @default("https://nits68.github.io/static/viewpoints/no-img.jpg")
+  location_id   Int
+  mountain      String    @unique
+  viewpointName String    @unique
+
+  location Location? @relation(fields: [location_id], references: [id])
+
+  @@map("viewpoints")
 }
