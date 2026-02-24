@@ -8,7 +8,7 @@ PATCH http://localhost:3000/api/viewpoints/1
 Content-Type: application/json
 
 {
-  "viewpointName": "Updated Viewpoint Name",
-  "built": "2010-02-01T00:00:00.000Z",
-  "height": 23
+  "viewpointName": "Updated teszt",
+  "built": "kilincs",
+  "height": 25
 }
